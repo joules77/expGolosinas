@@ -21,7 +21,8 @@ public class expGolosinas {
 		//nombramos las golosinas
 		String[][] nombreGolosinas = {
 				{"Kitkat", "Chicles de fresa", "Pulparindos", "Paletas"},
-				
+				{"Kinder Bueno", "Bolsa de dulces variado", "Cheetos", "Snicker"},
+				{""},
 		};
 		
 	}
